@@ -20,7 +20,9 @@ Decision Trees
 Random Forest
 Gradient Boosting
 The performance of each model was evaluated, and the results were as follows:
+
 Comparison of the training model
+
 ![comparison](https://github.com/user-attachments/assets/14061712-0418-4f0f-a34b-8b320b691335)
 
 Linear Regression: 73.31
@@ -30,6 +32,7 @@ Decision Tree: 67.82
 LightGBM: 65.17
 
 Compariosn of the testing model
+
 ![comparion for testing](https://github.com/user-attachments/assets/2a64709c-6ff7-49d2-8e23-1ea64155580c)
 
 Linear Regression emerged as the best-performing model with a score of 73.31, making it the optimal choice for predicting house prices in Lagos.
