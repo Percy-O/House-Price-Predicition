@@ -7,9 +7,11 @@ This project focused on predicting house prices in Lagos using machine learning 
 Once the data was obtained, it underwent preprocessing to ensure its readiness for analysis. During this stage, the data was cleaned by addressing outliers, handling duplicate entries, and managing null fields.
 
 Following preprocessing, exploratory data analysis (EDA) was conducted to gain deeper insights into the dataset. This phase revealed key information, such as the highest and lowest house rents in Lagos and their distribution patterns, providing a clearer understanding of the underlying trends.
+
 ![neigh](https://github.com/user-attachments/assets/1fed6cb0-98b1-489b-8608-8769b67eab46)
 ![neigh count](https://github.com/user-attachments/assets/7326cc7e-1d9c-4084-82ed-22188bd8d6a9)
 ![pie](https://github.com/user-attachments/assets/97eef7a4-c63f-44a2-973e-f6e504373d37)
+
 After the analysis, the data was split into training and testing sets to prepare it for prediction. Several machine learning models were considered for this task, including:
 
 Linear Regression
